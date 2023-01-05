@@ -11,10 +11,10 @@ I am a third year student majoring in Information Systems at Multimedia Nusantar
 
 <br>
 <ul>
-  <li> - 🔭 I’m currently working on mini data projects to upgrade my skill</li>
-  <li> - 🌱 I’m currently learning and using Python</li>
-  <li> - 📫 How to reach me: <a href = "https://www.linkedin.com/in/rievaps/"> LinkedIn </a> or <a href="mailto:rievaps@gmail.com">send me an E-mail!</a></li>
-  <li> - ⚡ Fun fact: I am active in campus organizations which makes me team-oriented and a critical thinker!</li>
+  <li>  🔭 I’m currently working on mini data projects to upgrade my skill</li>
+  <li>  🌱 I’m currently learning and using Python</li>
+  <li>  📫 How to reach me: <a href = "https://www.linkedin.com/in/rievaps/"> LinkedIn </a> or <a href="mailto:rievaps@gmail.com">send me an E-mail!</a></li>
+  <li>  ⚡ Fun fact: I am active in campus organizations which makes me team-oriented and a critical thinker!</li>
 </ul>
 
 <br><br>
