@@ -39,5 +39,3 @@ I am a third year student majoring in Information Systems at Multimedia Nusantar
   
 </div>
 
-
-![Rieva's GitHub stats](https://github-readme-stats.vercel.app/api?username=rievaps&show_icons=truel) <a href="https://github.com/rievaps/github-readme-stats"><img alt="Rieva's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rievaps&langs_count=8&count_private=true" /></a>
