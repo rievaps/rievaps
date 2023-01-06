@@ -6,7 +6,7 @@
 
 <strong>Get to Know Me:</strong><br>
 <p>
-I am a third year student majoring in Information Systems at Multimedia Nusantara University with a specialization in Big Data Analytics. During my studies, I developed analytical and problem-solving skills through several programming languages and tools for data analytics. I learned sveral programming languages such as R, Python and SQL also I use Tableau, Microsoft Power BI and Microsoft Excel to visualize the results of my analysis. Currently, I am keen to apply, learn, and develop my skills further in data analytics and data science further in the industrial field. Here I present some of my mini-projects related to data processing and visualization that I did during my studies. 
+I am a third year student majoring in Information Systems at Multimedia Nusantara University with a specialization in Big Data Analytics. During my studies, I developed analytical and problem-solving skills through several programming languages and tools for data analytics. I learned sveral programming languages such as R, Python and SQL also I use Tableau, Microsoft Power BI and Microsoft Excel to visualize the results of my analysis. Currently, I am keen to apply, learn, and develop my skills further in data analytics and data science further in the industrial field. Here I present some of my mini-projects during my studies, especially projects related to data processing and visualization that I did. 
 </p>
 
 <br>
