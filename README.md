@@ -11,7 +11,7 @@ I am a fourth year student majoring in Information Systems at Multimedia Nusanta
 
 <br>
 <ul>
-  <li>  👩🏻‍💻I’m currently on an in internship as Data Analyst</li>
+  <li>  👩🏻‍💻I’m currently on an internship as Data Analyst</li>
   <li>  🌱 I’m currently learning and using Python & Power BI</li>
   <li>  📫 How to reach me: <a href = "https://www.linkedin.com/in/rievaps/"> LinkedIn </a> or <a href="mailto:rievaps@gmail.com">send me an E-mail!</a></li>
   <li>  ⚡ Fun fact: I am active in campus organizations which makes me team-oriented and a critical thinker!</li>
