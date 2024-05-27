@@ -11,8 +11,8 @@ I am a final year student majoring in Information Systems at Multimedia Nusantar
 
 <br>
 <ul>
-  <li>  👩🏻‍💻I’m currently on an internship as Data Analyst</li>
-  <li>  🌱 I’m currently learning and using Python & Power BI</li>
+  <li>  👩🏻‍💻I have two internship experiences as a Data Analyst and an experience as an IT Project Manager </li>
+  <li>  🌱 I’m currently learning and using SQL, Python & Data Visualization tools like Power BI, Looker, and Tableau </li>
   <li>  📫 How to reach me: <a href = "https://www.linkedin.com/in/rievaps/"> LinkedIn </a> or <a href="mailto:rievaps@gmail.com">send me an E-mail!</a></li>
   <li>  ⚡ Fun fact: I am active in campus organizations which makes me team-oriented and a critical thinker!</li>
 </ul>
